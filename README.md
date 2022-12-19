@@ -1,0 +1,3 @@
+# faceit
+FACE RECOGNITION ATTENDANCE SYSTEM 
+have fun :)
